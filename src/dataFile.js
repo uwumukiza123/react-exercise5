@@ -1,1 +1,3 @@
-export default ["dog", "cat", "chicken", "cow", "sheep", "horse"];
+const dataFile = ["dog", "cat", "chicken", "cow", "sheep", "horse"];
+
+export default dataFile;
